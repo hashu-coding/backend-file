@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "name": "Harsh",
+        "phone": 7364826483,
+        "city": "New Delhi"
+    },
+    {
+        "id": 2,
+        "name": "Amit",
+        "phone": 9876543210,
+        "city": "Mumbai"
+    },
+    {
+        "id": 3,
+        "name": "Ravi",
+        "phone": 7123456789,
+        "city": "Bangalore"
+    },
+    {
+        "id": 4,
+        "name": "Priya",
+        "phone": 9876123456,
+        "city": "Chennai"
+    },
+    {
+        "id": 5,
+        "name": "Neha",
+        "phone": 9345678912,
+        "city": "Kolkata"
+    },
+    {
+        "id": 6,
+        "name": "Vikram",
+        "phone": 7698754321,
+        "city": "Hyderabad"
+    },
+    {
+        "id": 7,
+        "name": "Sanya",
+        "phone": 9823456789,
+        "city": "Ahmedabad"
+    },
+    {
+        "id": 8,
+        "name": "Deepak",
+        "phone": 7987654321,
+        "city": "Pune"
+    },
+    {
+        "id": 9,
+        "name": "Ananya",
+        "phone": 9801234567,
+        "city": "Chandigarh"
+    },
+    {
+        "id": 10,
+        "name": "Shivani",
+        "phone": 7672345678,
+        "city": "Noida"
+    },
+    {
+        "id": 11,
+        "name": "Karan",
+        "phone": 7355787567,
+        "city": "Lucknow"
+    },
+    {
+        "id": 12,
+        "name": "Akash",
+        "phone": 9023457890,
+        "city": "Jaipur"
+    },
+    {
+        "id": 13,
+        "name": "Nisha",
+        "phone": 9892345678,
+        "city": "Patna"
+    },
+    {
+        "id": 14,
+        "name": "Manish",
+        "phone": 9783456789,
+        "city": "Surat"
+    },
+    {
+        "id": 15,
+        "name": "Meera",
+        "phone": 7065432109,
+        "city": "Indore"
+    },
+    {
+        "id": 16,
+        "name": "Vishal",
+        "phone": 9234567891,
+        "city": "Bhopal"
+    },
+    {
+        "id": 17,
+        "name": "Richa",
+        "phone": 7655432109,
+        "city": "Kanpur"
+    },
+    {
+        "id": 18,
+        "name": "Sandeep",
+        "phone": 9067543210,
+        "city": "Vadodara"
+    },
+    {
+        "id": 19,
+        "name": "Ritika",
+        "phone": 9852345678,
+        "city": "Aurangabad"
+    },
+    {
+        "id": 20,
+        "name": "Sushant",
+        "phone": 9065432101,
+        "city": "Goa"
+    },
+    {
+        "id": 21,
+        "name": "Geeta",
+        "phone": 9992345678,
+        "city": "Nagpur"
+    },
+    {
+        "id": 22,
+        "name": "Harish",
+        "phone": 7689432100,
+        "city": "Coimbatore"
+    },
+    {
+        "id": 23,
+        "name": "Alok",
+        "phone": 9823456890,
+        "city": "Chhattisgarh"
+    },
+    {
+        "id": 24,
+        "name": "Shruti",
+        "phone": 9812345678,
+        "city": "Agra"
+    },
+    {
+        "id": 25,
+        "name": "Vandana",
+        "phone": 9765432109,
+        "city": "Gurugram"
+    },
+    {
+        "id": 26,
+        "name": "Ankit",
+        "phone": 7612345678,
+        "city": "Faridabad"
+    },
+    {
+        "id": 27,
+        "name": "Aditi",
+        "phone": 9645678901,
+        "city": "Patiala"
+    },
+    {
+        "id": 28,
+        "name": "Jatin",
+        "phone": 7534567890,
+        "city": "Jaipur"
+    },
+    {
+        "id": 29,
+        "name": "Tanu",
+        "phone": 9877654321,
+        "city": "Ranchi"
+    },
+    {
+        "id": 30,
+        "name": "Raman",
+        "phone": 9684512345,
+        "city": "Varanasi"
+    },
+    {
+        "id": 31,
+        "name": "Sneha",
+        "phone": 7352149876,
+        "city": "Chandigarh"
+    },
+    {
+        "id": 32,
+        "name": "Kriti",
+        "phone": 9854321097,
+        "city": "Delhi"
+    },
+    {
+        "id": 33,
+        "name": "Dinesh",
+        "phone": 7423654789,
+        "city": "Gurugram"
+    },
+    {
+        "id": 34,
+        "name": "Kavita",
+        "phone": 9734567892,
+        "city": "Bhubaneswar"
+    },
+    {
+        "id": 35,
+        "name": "Nitin",
+        "phone": 9876543290,
+        "city": "Delhi"
+    },
+    {
+        "id": 36,
+        "name": "Neelam",
+        "phone": 9734567890,
+        "city": "Mumbai"
+    },
+    {
+        "id": 37,
+        "name": "Deepika",
+        "phone": 9876789012,
+        "city": "Kochi"
+    },
+    {
+        "id": 38,
+        "name": "Arvind",
+        "phone": 7123654789,
+        "city": "Chennai"
+    },
+    {
+        "id": 39,
+        "name": "Vikas",
+        "phone": 7634567890,
+        "city": "Lucknow"
+    },
+    {
+        "id": 40,
+        "name": "Pradeep",
+        "phone": 7897645432,
+        "city": "Indore"
+    },
+    {
+        "id": 41,
+        "name": "Jyoti",
+        "phone": 9827654321,
+        "city": "Kolkata"
+    },
+    {
+        "id": 42,
+        "name": "Manju",
+        "phone": 7643215678,
+        "city": "Pune"
+    },
+    {
+        "id": 43,
+        "name": "Rohit",
+        "phone": 7876543210,
+        "city": "Goa"
+    },
+    {
+        "id": 44,
+        "name": "Rupali",
+        "phone": 9045678901,
+        "city": "Nagpur"
+    },
+    {
+        "id": 45,
+        "name": "Sunil",
+        "phone": 7864512345,
+        "city": "Hyderabad"
+    },
+    {
+        "id": 46,
+        "name": "Ashish",
+        "phone": 9805678234,
+        "city": "Surat"
+    },
+    {
+        "id": 47,
+        "name": "Pooja",
+        "phone": 9876512345,
+        "city": "Chandigarh"
+    },
+    {
+        "id": 48,
+        "name": "Rajeev",
+        "phone": 7654321234,
+        "city": "Noida"
+    },
+    {
+        "id": 49,
+        "name": "Simran",
+        "phone": 9847562345,
+        "city": "Bangalore"
+    },
+    {
+        "id": 50,
+        "name": "Prashant",
+        "phone": 7345678902,
+        "city": "Delhi"
+    }
+]
